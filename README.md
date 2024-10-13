@@ -48,4 +48,14 @@ You'll need to manually set some stuff
 - Civic Music
 1. You actually don't need to do anything with this one. The script will delete artwork when it detects that Spotify isn't running, sometimes it will glitch out and not display any artwork (possibly due to the script not fetching the artwork after it deletes it). Change song (preferably from another album) or restart the theme if this happens, normally happens with local files.
 
+# Tested Enviroment
+This theme was made on Pop!_OS 22.04 using GNOME 42.9. 
+
+# Screenshot
+
+![Unsaved Image 1](https://github.com/user-attachments/assets/c0136727-aa25-4640-9241-fbe75001056d)
+
+# License 
+This project is licensed under the GPL-3.0 License. See the License file for details.
+
 
