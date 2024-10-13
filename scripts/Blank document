@@ -1,9 +1,0 @@
-function conky_draw_text()
-    -- Example of drawing text at specific X, Y coordinates
-    local updates = tonumber(conky_parse('${updates}'))
-    if updates > 5 then
-        cairo_move_to(cr, 10, 100)  -- Move to X=10, Y=100
-        cairo_show_text(cr, "This text is drawn at a fixed Y position")
-    end
-end
-
