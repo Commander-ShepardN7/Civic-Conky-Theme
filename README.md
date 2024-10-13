@@ -52,6 +52,7 @@ You'll need to manually set some stuff
 This theme was made on Pop!_OS 22.04 using GNOME 42.9. 
 
 # Screenshot
+![Unsaved Image 1](https://github.com/user-attachments/assets/32afa17c-4832-48bf-9ecf-8685cff9a24e)
 
 
 # License 
